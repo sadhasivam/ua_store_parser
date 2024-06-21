@@ -1,0 +1,667 @@
+{
+    "al": {
+        "foley": [
+            "2601 S. McKenzie St,Suite 400,Foley,AL,36535"
+        ],
+        "leeds": [
+            "6200 Grand River Blvd East,Suite 542,Leeds,AL,35094"
+        ]
+    },
+    "az": {
+        "anthem": [
+            "4250 West Anthem Way,Space 690,Anthem,AZ,85086"
+        ],
+        "chandler": [
+            "4976 Premium Outlets Way,Suite 416,Chandler,AZ,85226"
+        ],
+        "glendale": [
+            "6800 N 95 Ave,Suite 890,Glendale,AZ,85305"
+        ],
+        "marana": [
+            "6401 West Marana Center Blvd.,Suite 504,Marana,AZ,85742"
+        ]
+    },
+    "ar": {
+        "little-rock": [
+            "11201 Bass Pro Parkway,Suite #G-W102,Little Rock,AR,72210"
+        ]
+    },
+    "ca": {
+        "cabazon": [
+            "48750 Seminole Drive,#110,Cabazon,CA,92230"
+        ],
+        "camarillo": [
+            "950 Camarillo Center Drive,Suite 195,Camarillo,CA,93010"
+        ],
+        "carlsbad": [
+            "5620 Paseo Del Norte,Suite 100B,Carlsbad,CA,92008"
+        ],
+        "commerce": [
+            "100 Citadel Drive,Space 648,Commerce,CA,90040"
+        ],
+        "folsom": [
+            "13000 Folsom Blvd.,Space 1555,Folsom,CA,95630"
+        ],
+        "gilroy": [
+            "8300 Arroyo Circle,Suite 220,Gilroy,CA,95020"
+        ],
+        "livermore": [
+            "3190 Paragon Outlets Drive,Suite 450,Livermore,CA,94551"
+        ],
+        "milpitas": [
+            "464 Great Mall Drive,,Milpitas,CA,95035"
+        ],
+        "ontario": [
+            "1 Mills Circle,Suite 328A,Ontario,CA,91764"
+        ],
+        "orange": [
+            "20 City Blvd. West,Suite 1500,Orange,CA,92868"
+        ],
+        "san-clemente": [
+            "101 West Avenida Vista Hermosa,Suite 572,San Clemente,CA,92672"
+        ],
+        "san-ysidro": [
+            "4191 Camino de la Plaza,Suite #LL01,San Ysidro,CA,92173"
+        ],
+        "tejon-ranch": [
+            "5701 Outlets at Tejon Parkway,Suite 980,Tejon Ranch,CA,93203"
+        ],
+        "tulare": [
+            "1463 Retherford Street,Suite D70,Tulare,CA,93274"
+        ],
+        "vacaville": [
+            "321 Nut Tree Road,Suite 324,Vacaville,CA,95687"
+        ]
+    },
+    "co": {
+        "castle-rock": [
+            "5050 Factory Shops Boulevard,Space 550,Castle Rock,CO,80108"
+        ],
+        "lakewood": [
+            "14500 W. Colfax Ave,Suite 270,Lakewood,CO,80401"
+        ],
+        "silverthorne": [
+            "246-O Rainbow Dr.,Space G710,Silverthorne,CO,80498"
+        ],
+        "thornton": [
+            "13801 Grant Street,Suite 710,Thornton,CO,80023"
+        ]
+    },
+    "ct": {
+        "clinton": [
+            "20-A Killingworth Turnpike,Suite 140,Clinton,CT,06413"
+        ],
+        "mashantucket": [
+            "455 Trolley Line Blvd,Suite 760,Mashantucket,CT,06338"
+        ]
+    },
+    "de": {
+        "rehoboth-beach": [
+            "36698 Bayside Outlet Dr.,Suite 600,Rehoboth Beach,DE,19971"
+        ]
+    },
+    "fl": {
+        "daytona-beach": [
+            "1100 Cornerstone Blvd.,Suite 300,Daytona Beach,FL,32117"
+        ],
+        "destin": [
+            "10676 Emerald Cost Parkway West,Suite 132,Destin,FL,32550"
+        ],
+        "ellenton": [
+            "5553 Factory Shops Blvd,,Ellenton,FL,34222"
+        ],
+        "estero": [
+            "10801 Corkscrew Rd.,Space 138,Estero,FL,33928"
+        ],
+        "florida-city": [
+            "250 East Palm Drive,Suite #300,Florida City,FL,33034"
+        ],
+        "lake-buena-vista": [
+            "1668 E. Buena Vista Drive,Suite #1L,Lake Buena Vista,FL,32830,(407)982-5748"
+        ],
+        "lutz": [
+            "2244 Grand Cypress Drive,Suite 601,Lutz,FL,33559"
+        ],
+        "miami": [
+            "11401 NW 12th St,#455,Miami,FL,33172,(786) 975-1853"
+        ],
+        "orlando": [
+            "4200 Conroy Road,Space E131,Orlando,FL,32839",
+            "5225 International Drive,Space #D1,Orlando,FL,32819",
+            "15729 Apopka Vineland Rd.,Space # 15729,Orlando,FL,32821",
+            "4975 International Dr.,Suite 3C01,Orlando,FL,32819",
+            "8200 Vineland ave,Suite 1248,Orlando,FL,32821",
+            "8200 Vineland Ave,Suite 405A,Orlando,FL,32821"
+        ],
+        "st.-augustine": [
+            "2700 State Road 16,Ste 304,St. Augustine,FL,32092"
+        ],
+        "sunrise": [
+            "12801 W. Sunrise Blvd.,Suite 429,Sunrise,FL,33323"
+        ],
+        "west-palm-beach": [
+            "1791 Palm Beach Lakes Blvd,Suite W115,West Palm Beach,FL,33401"
+        ]
+    },
+    "ga": {
+        "commerce": [
+            "800 Steven B. Tanger Blvd,Suites 405/406,Commerce,GA,30529"
+        ],
+        "dawsonville": [
+            "800 Highway 400 South,Suite 900,Dawsonville,GA,30534"
+        ],
+        "locust-grove": [
+            "1000 Tanger Dr.,Suite 700,Locust Grove,GA,30248"
+        ],
+        "pooler": [
+            "200 Tanger Outlet Blvd.,Ste 495,Pooler,GA,31322"
+        ],
+        "woodstock": [
+            "915 Ridgewalk Parkway,Ste A-180,Woodstock,GA,30188"
+        ]
+    },
+    "id": {
+        "meridian": [
+            "1190 N Eagle Road,,Meridian,ID,83642,(208) 629-4218"
+        ]
+    },
+    "il": {
+        "aurora": [
+            "1650 Premium Outlets Blvd.,Space 1223,Aurora,IL,60502"
+        ],
+        "chicago": [
+            "600 N. Michigan Ave.,,Chicago,IL,60611"
+        ],
+        "gurnee": [
+            "6170 W Grand Ave,Suite 509,Gurnee,IL,60031"
+        ],
+        "rosemont": [
+            "5220 Fashion Outlet Way,Suite 1135,Rosemont,IL,60018"
+        ]
+    },
+    "in": {
+        "edinburgh": [
+            "3195 Outlet Drive,,Edinburgh,IN,46124"
+        ],
+        "fremont": [
+            "6245 N. Old 27,Space A-115,Fremont,IN,46737"
+        ],
+        "michigan-city": [
+            "601 Wabash Street,Space 103,Michigan City,IN,46360"
+        ]
+    },
+    "ia": {
+        "altoona": [
+            "771 Bass Pro Drive NW,Space 225,Altoona,IA,50009"
+        ],
+        "williamsburg": [
+            "1991 O'Donnell Road,Suite #124,Williamsburg,IA,52361,(319)800-6808"
+        ]
+    },
+    "ks": {
+        "kansas-city": [
+            "1843 Village West Pkwy,Suite C109,Kansas City,KS,66111"
+        ],
+        "wichita": [
+            "2696 N Greenwich Road,,Wichita,KS,67226"
+        ]
+    },
+    "ky": {
+        "simpsonville": [
+            "1155 Buck Creek Road,Suite C300,Simpsonville,KY,40067"
+        ]
+    },
+    "la": {
+        "bossier-city": [
+            "305 Boardwalk Blvd.,,Bossier City,LA,71111"
+        ],
+        "gonzales": [
+            "2410 Tanger Blvd.,Suite 320,Gonzales,LA,70737"
+        ]
+    },
+    "me": {
+        "freeport": [
+            "66 Main Street,,Freeport,ME,04032"
+        ],
+        "kittery": [
+            "336 US Route 1,Suite 3,Kittery,ME,03904"
+        ]
+    },
+    "md": {
+        "annapolis": [
+            "2575 Annapolis Mall,Suite 1516,Annapolis,MD,21401"
+        ],
+        "baltimore": [
+            "700 South President Street,,Baltimore,MD,21202"
+        ],
+        "bethesda": [
+            "7101 Democracy Blvd.,,Bethesda,MD,20817"
+        ],
+        "clarksburg": [
+            "22705 Clarksburg Road,Suite 600,Clarksburg,MD,20871"
+        ],
+        "columbia": [
+            "10300 Little Patuxent Parkway,Space 2233,Columbia,MD,21044"
+        ],
+        "hagerstown": [
+            "365 Premium Outlets Blvd.,Space 450,Hagerstown,MD,21740"
+        ],
+        "hanover": [
+            "7000 Arundel Mills Circle,Space F1,Hanover,MD,21076"
+        ],
+        "national-harbor": [
+            "6800 Oxon Hill,Suite 280,National Harbor,MD,20745"
+        ],
+        "ocean-city": [
+            "12741 Ocean Gateway,Suite 870,Ocean City,MD,21842"
+        ],
+        "queenstown": [
+            "413 Outlet Center Drive,Suite A006,Queenstown,MD,21658,(443)988-0427"
+        ]
+    },
+    "ma": {
+        "boston": [
+            "888 Boylston Street,Suite #049,Boston,MA,02199"
+        ],
+        "lee": [
+            "320 Premium Outlets Blvd,,Lee,MA,01238,(413)728-5203"
+        ],
+        "wrentham": [
+            "1 Premium Outlets Blvd.,Suite 796,Wrentham,MA,02093"
+        ]
+    },
+    "mi": {
+        "auburn-hills": [
+            "4760 Baldwin Road,Space M-135,Auburn Hills,MI,48326,(248) 636-1971"
+        ],
+        "birch-run": [
+            "12150  Beyer Road,Suite 70,Birch Run,MI,48415"
+        ],
+        "byron-center": [
+            "350 84th Street SW,Suite 100,Byron Center,MI,49315"
+        ],
+        "howell": [
+            "1475 N. Burkart Rd.,Suite D-120,Howell,MI,48843"
+        ]
+    },
+    "mn": {
+        "albertville": [
+            "6415 Laveaux Ave NE,Space# A070,Albertville,MN,55301"
+        ],
+        "bloomington": [
+            "240 West Market W240,,Bloomington,MN,55425"
+        ],
+        "eagan": [
+            "3995 Eagan Outlets Pkwy,Suite 100,Eagan,MN,55122"
+        ]
+    },
+    "ms": {
+        "gulfport": [
+            "10110 Factory Shops Blvd.,Space 110,Gulfport,MS,39501"
+        ],
+        "pearl": [
+            "200 Bass Pro Drive,Suite 480,Pearl,MS,39208"
+        ],
+        "southaven": [
+            "5205 Airways Blvd.,Suite 700,Southaven,MS,38671"
+        ]
+    },
+    "mo": {
+        "branson": [
+            "300 Tanger Blvd.,Space 210,Branson,MO,65616"
+        ],
+        "chesterfield": [
+            "18517 Outlet Blvd.,Suite 218,Chesterfield,MO,63005"
+        ],
+        "osage-beach": [
+            "4540 Osage Beach Parkway,Suite B-2,Osage Beach,MO,65065"
+        ]
+    },
+    "ne": {
+        "gretna": [
+            "21209 Nebraska Crossing Dr,C100,Gretna,NE,68028"
+        ]
+    },
+    "nv": {
+        "las-vegas": [
+            "3200 Las Vegas Blvd. S.,Space 1040,Las Vegas,NV,89109",
+            "525 South Grand Central Parkway,Suite 3351,Las Vegas,NV,89106",
+            "7400 Las Vegas Blvd. South,Space 0318,Las Vegas,NV,89123"
+        ]
+    },
+    "nh": {
+        "merrimack": [
+            "80 Premium Outlets Blvd,Suite 507,Merrimack,NH,03054"
+        ],
+        "north-conway": [
+            "2 Common Court,Space H-35,North Conway,NH,03860"
+        ],
+        "tilton": [
+            "120 Laconia Rd.,Suite #310,Tilton,NH,03276"
+        ]
+    },
+    "nj": {
+        "atlantic-city": [
+            "25 North Michigan Ave,Suite 420,Atlantic City,NJ,08401"
+        ],
+        "blackwood": [
+            "100 S Premium Outlets Drive,Suite 110,Blackwood,NJ,08012"
+        ],
+        "elizabeth": [
+            "651 Kapowski Rd,Space 1250,Elizabeth,NJ,07201"
+        ],
+        "jackson": [
+            "537 Monmouth Road,,Jackson,NJ,08527"
+        ],
+        "paramus": [
+            "1 Garden State Plaza,Space #D12,Paramus,NJ,07652"
+        ],
+        "tinton-falls": [
+            "4001 Premium Outlet Blvd,Suite 101,Tinton Falls,NJ,07753"
+        ]
+    },
+    "ny": {
+        "central-valley": [
+            "185 Niagara Lane,Suite Q101,Central Valley,NY,10917"
+        ],
+        "deer-park": [
+            "152 The Arches Circle,Suite 425,Deer Park,NY,11729"
+        ],
+        "lake-george": [
+            "1444 U.S. 9,Space 4,Lake George,NY,12845"
+        ],
+        "new-york": [
+            "185 Greenwich St., Space Ll4302,,New York,NY,10007"
+        ],
+        "niagara": [
+            "1900 Military Road,Space 92,Niagara,NY,14304"
+        ],
+        "riverhead": [
+            "1513 Tanger Mall Dr.,Suite 1513,Riverhead,NY,11901"
+        ],
+        "rochester": [
+            "3349 Monroe Ave,Suite 7B,Rochester,NY,14618"
+        ],
+        "waterloo": [
+            "655 Route 318,Suite A003,Waterloo,NY,13165"
+        ]
+    },
+    "nc": {
+        "asheville": [
+            "800 Brevard Road,,Asheville,NC,28806"
+        ],
+        "charlotte": [
+            "5524 New Fashion Way,Suite 400,Charlotte,NC,28278"
+        ],
+        "concord": [
+            "8111 Concord Mills Blvd,,Concord,NC,28027"
+        ],
+        "mebane": [
+            "4000 Arrowhead Blvd,Suite 810/824,Mebane,NC,27302,(919)241-5894"
+        ],
+        "smithfield": [
+            "1025 Industrial Park Drive,Space 870,Smithfield,NC,27577"
+        ]
+    },
+    "oh": {
+        "aurora": [
+            "549 South Chillicothe Rd.,Suite 0355,Aurora,OH,44202"
+        ],
+        "avon": [
+            "35886 Detroit Rd,,Avon,OH,44011"
+        ],
+        "jeffersonville": [
+            "8770 Factory Shoppes Blvd.,Suite 770,Jeffersonville,OH,43128,(740)313-0002"
+        ],
+        "monroe": [
+            "400 Premium Outlets Drive,Space 701-A,Monroe,OH,45050"
+        ],
+        "sunbury": [
+            "400 South Wilson Road,Suite 500,Sunbury,OH,43074"
+        ]
+    },
+    "ok": {
+        "oklahoma-city": [
+            "7624 W. Reno Ave,Space #B-210,Oklahoma City,OK,73128"
+        ]
+    },
+    "or": {
+        "lincoln-city": [
+            "1500 SE East Devils Lake Rd.,Space 217,Lincoln City,OR,97367"
+        ],
+        "woodburn": [
+            "1001 Arney Rd.,Suite 610,Woodburn,OR,97071"
+        ]
+    },
+    "pa": {
+        "gettysburg": [
+            "1863 Gettysburg Village Drive,Suite J610,Gettysburg,PA,17325"
+        ],
+        "grove-city": [
+            "1911 Leesburg Grove City Rd.,Suite 935,Grove City,PA,16127,(724)870-4886"
+        ],
+        "hershey": [
+            "46 Outlet Square,,Hershey,PA,17033"
+        ],
+        "king-of-prussia": [
+            "160 N Gulph Rd,Suite 1169A,King of Prussia,PA,19406"
+        ],
+        "lancaster": [
+            "1300 Stanley K Tanger Drive,Suite 1300,Lancaster,PA,17602"
+        ],
+        "limerick": [
+            "18 Light Cap Road,Suite 743,Limerick,PA,19464"
+        ],
+        "mifflinburg": [
+            "321 E Chestnut St,,Mifflinburg,PA,17844,(570) 966-0225"
+        ],
+        "tannersville": [
+            "1000 Premium Outlets Drive,Suite C-12,Tannersville,PA,18372"
+        ],
+        "washington": [
+            "2200 Tanger Blvd.,Suite 480,Washington,PA,15301",
+            "2200 Tanger Blvd.,Suite 950,Washington,PA,15301"
+        ]
+    },
+    "sc": {
+        "bluffton": [
+            "1254 Fording Island Road,Suite 295,Bluffton,SC,29910"
+        ],
+        "gaffney": [
+            "1 Factory Shops Blvd.,\"Bldg. #6, Space #630\",Gaffney,SC,29341"
+        ],
+        "myrtle-beach": [
+            "10843 Kings Road,Suite 380,Myrtle Beach,SC,29572",
+            "4633 Factory Stores Blvd.,Suite C140,Myrtle Beach,SC,29579,(843)492-0822"
+        ],
+        "n.-charleston": [
+            "4840 Tanger Outlets Blvd.,Suite 1050,N. Charleston,SC,29418"
+        ]
+    },
+    "tn": {
+        "antioch": [
+            "4060 Cane Ridge Parkway,Suite 501,Antioch,TN,37013"
+        ],
+        "nashville": [
+            "433 Opry Mills Drive,Suite 471,Nashville,TN,37214"
+        ],
+        "sevierville": [
+            "1645 Parkway,Suite 490,Sevierville,TN,37862",
+            "1645 Parkway,Suite 110,Sevierville,TN,37862"
+        ]
+    },
+    "tx": {
+        "allen": [
+            "820 West Stacy Rd.,Suite # 518,Allen,TX,75013"
+        ],
+        "canutillo": [
+            "7051 South Desert Blvd,Space E-574,Canutillo,TX,79835"
+        ],
+        "cypress": [
+            "29300 Hempstead Road,Suite 849,Cypress,TX,77433"
+        ],
+        "dallas": [
+            "8687 North Central Expressway,Space E1-730,Dallas,TX,75225"
+        ],
+        "fort-bliss": [
+            "1612 Pleasonton Rd.,Suite C101,Fort Bliss,TX,79906"
+        ],
+        "fort-worth": [
+            "15853 N Fwy,Suite 600,Fort Worth,TX,76177"
+        ],
+        "grand-prairie": [
+            "2950 West Interstate 20,Suite 815,Grand Prairie,TX,75052"
+        ],
+        "grapevine": [
+            "3000 Grapevine Mills Pkwy,R002,Grapevine,TX,76051"
+        ],
+        "katy": [
+            "5000 Katy Mills Circle,Space 661,Katy,TX,77494"
+        ],
+        "laredo": [
+            "1600 Water Street,Suite A510,Laredo,TX,78040"
+        ],
+        "mercedes": [
+            "5001 East Expressway 83,Suite 307,Mercedes,TX,78570"
+        ],
+        "round-rock": [
+            "4401 N Interstate 35,Suite 437,Round Rock,TX,78665"
+        ],
+        "san-marcos": [
+            "3939 IH-35 South,Suite 650,San Marcos,TX,78666"
+        ],
+        "texas-city": [
+            "5885 Gulf Freeway,Suite 920,Texas City,TX,77591"
+        ]
+    },
+    "ut": {
+        "lehi": [
+            "3700 N Cabelas Blvd.,Space 363,Lehi,UT,84043"
+        ],
+        "park-city": [
+            "6699 N. Landmark Dr.,Suite J100,Park City,UT,84098"
+        ]
+    },
+    "va": {
+        "leesburg": [
+            "241 Fort Evans Road N.E.,Suite 369,Leesburg,VA,20176"
+        ],
+        "norfolk": [
+            "1600 Premium Outlets Blvd,,Norfolk,VA,23502,(757) 447-0011"
+        ],
+        "tysons-corner": [
+            "7977 Tysons Corner Center,,Tysons Corner,VA,22102"
+        ],
+        "williamsburg": [
+            "5715 Richmond Road,Suite B027,Williamsburg,VA,23188"
+        ],
+        "woodbridge": [
+            "2700 Potomac Mills Circle,Unit 518,Woodbridge,VA,22192"
+        ]
+    },
+    "wa": {
+        "centralia": [
+            "1303 Lum Rd.,,Centralia,WA,98531"
+        ],
+        "north-bend": [
+            "461 South Fork Ave. SW,Space 561C,North Bend,WA,98045"
+        ],
+        "tulalip": [
+            "10600 Quil Ceda Blvd.,Suite 105,Tulalip,WA,98271"
+        ]
+    },
+    "wi": {
+        "baraboo": [
+            "210 Gasser Rd,Suite #1035,Baraboo,WI,53913"
+        ],
+        "johnson-creek": [
+            "612 West Linmar Lane,Suite C050B,Johnson Creek,WI,53038,(920)541-4064"
+        ],
+        "oshkosh": [
+            "3001 S. Washburn Street,Space #D-010,Oshkosh,WI,54904"
+        ],
+        "pleasant-prairie": [
+            "11211 120th Ave.,Suite 504,Pleasant Prairie,WI,53158"
+        ]
+    },
+    "ab": {
+        "nisku": [
+            "#1 Outlet Collection Way,Suite 125,Nisku,,T9E 1J5"
+        ],
+        "rocky-view": [
+            "261055 Crossiron Blvd,Suite 619,Rocky View,,T4A 0G3"
+        ],
+        "west-edmonton": [
+            "8882 170 St NW, Unit L215,,West Edmonton,,T5T 4J2"
+        ]
+    },
+    "bc": {
+        "langley": [
+            "20070 Langley Bypass,Suite A030/A035,Langley,,V3A9J8"
+        ],
+        "richmond": [
+            "7899 Templeton Station Road,Suite 93,Richmond,,V7B 0B7"
+        ],
+        "tsawwassen": [
+            "5000 Canoe Pass Way,,Tsawwassen,,V4M 0B3"
+        ]
+    },
+    "mb": {
+        "winnipeg": [
+            "555 Sterling Lyon Parkway,Suite 315,Winnipeg,,R3P 2T3"
+        ]
+    },
+    "nb": {
+        "moncton": [
+            "78 Wyse St, Unit 1D,,Moncton,,E1G0Z5"
+        ]
+    },
+    "ns": {
+        "dartmouth": [
+            "27 Hector Gate,Space #2B-7,Dartmouth,,B3B 0C1,902.468.3569"
+        ]
+    },
+    "on": {
+        "ajax": [
+            "140 Kingston Road E,,Ajax,,L1Z 1G1"
+        ],
+        "cookstown": [
+            "3311 Simcoe Road,Suite D60,Cookstown,,L0L 1L0"
+        ],
+        "halton-hills": [
+            "13850 Steeles Avenue W,Suite 1400,Halton Hills,,L7G 0J1,(289) 851-2661"
+        ],
+        "kingston": [
+            "754 Gardiners Road,Space G-001,Kingston,,K7M 3X9"
+        ],
+        "london": [
+            "1230 Wellington Rd,Suite 101,London,,N6E 1M3"
+        ],
+        "mississauga": [
+            "5950 Rodeo Dr. - Unit 3,,Mississauga,,L5R 3V6"
+        ],
+        "niagara-on-the-lake": [
+            "300 Taylor Road,Space 739,Niagara-On-The-Lake,,L0S 1J0"
+        ],
+        "ottawa": [
+            "8555 Campeau Drive,Suite 310,Ottawa,,K2T 1B7"
+        ],
+        "sudbury": [
+            "100 Donna Drive,Suite D007,Sudbury,,P3B4K6"
+        ],
+        "toronto": [
+            "220 Yonge Street,,Toronto,,M5B 2H1"
+        ],
+        "vaughan": [
+            "1 Bass Pro Mills Drive,Space 101,Vaughan,,L4K 5W4"
+        ]
+    },
+    "qc": {
+        "mirabel": [
+            "19001 Chemin Notre-Dame,Suite 512,Mirabel,,J7J 0T1"
+        ],
+        "montreal": [
+            "999 Rue Du Marche Central,,Montreal,,H4N 1J8"
+        ]
+    }
+}
